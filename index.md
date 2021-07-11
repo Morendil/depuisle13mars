@@ -1,6 +1,6 @@
 # Le harcèlement, la loi et les employeurs publics
 
-Ce site est un projet citoyen dédié au suivi de la mise en oeuvre des mesures de prévention du harcèlement dans la fonction publique.
+Ce site est un projet citoyen dédié au suivi de la mise en œuvre des mesures de prévention du harcèlement dans la fonction publique.
 
 Depuis plusieurs années, des lois ont été promulguées pour tenter de lutter contre le harcèlement, notamment le harcèlement au travail, et notamment dans le cadre des emplois publics.
 
@@ -8,7 +8,7 @@ Cependant, on ne peut que constater que malgré ces lois, les employeurs continu
 
 ## Qu'est-ce que le harcèlement ?
 
-Le harcèlement moral est une forme de violence psychologique, qui a pour effet de dégrader les conditions de vie ou de travail des personnes qui en sont victimes. Dans certains cas, il peut pousser ses victimes à la dépression ou au suicide. Il peut être l'oeuvre d'une seule personne mais également être un fait institutionnel : ce fut le cas par exemple au sein de France Telecom, selon le [jugement](https://www.village-justice.com/articles/les-enseignements-affaire-des-suicides-sein-france-telecom,33903.html) qui fut rendu le 20 décembre 2019.
+Le harcèlement moral est une forme de violence psychologique, qui a pour effet de dégrader les conditions de vie ou de travail des personnes qui en sont victimes. Dans certains cas, il peut pousser ses victimes à la dépression ou au suicide. Il peut être l'œuvre d'une seule personne mais également être un fait institutionnel : ce fut le cas par exemple au sein de France Telecom, selon le [jugement](https://www.village-justice.com/articles/les-enseignements-affaire-des-suicides-sein-france-telecom,33903.html) qui fut rendu le 20 décembre 2019.
 
 Le harcèlement sexuel est une notion distincte mais apparentée, regroupant notamment les pressions en vue d'obtenir un acte sexuel, ou des propos ou comportements non désirés et répétés, à connotation sexuelle. Ses conséquences peuvent être tout aussi graves.
 
