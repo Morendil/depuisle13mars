@@ -32,7 +32,7 @@ Malheureusement, très peu d'employeurs publics.
 
 - les Ministères du travail, de l'emploi et de l'insertion d'une part, des solidarités et de la santé d'autre part, ont pris les concernant un [arrêté du 26 mai 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043596646), soit avec 390 jours de retard.
 
-Certaines collectivités territoriales sont en règle.
+Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
 ## Qui n'est pas en règle et pourquoi ?
 
