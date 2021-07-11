@@ -47,3 +47,7 @@ Un [document de présentation](https://www.cdg67.fr/coronavirus/pole-juridique/v
 ## CDG69
 
 Un [dispositif mutualisé](https://extranet.cdg69.fr/signalement-actes-violence-discrimination) est proposé par le centre de gestion du Rhône et de la Métropole de Lyon.
+
+## CIG929394
+
+Un [dispositif mutualisé](https://www.cig929394.fr/grh/expertise/signalement-actes-violence-discrimination-harcelement-ou-agissements-sexistes-quelles-obligations-pour-employeurs) est proposé par le Centre interdépartemental de gestion de la petite couronne d'Ile-de-France.
