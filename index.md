@@ -42,6 +42,7 @@ Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
 ## Lectures
 
+- la [décision n° 2021-065 du 12 avril 2021 du Défenseur des Droits](https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=20599) qui démontre l'inertie encore considérable des employeurs publics dans ce domaine
 - Christophe Dejours, _Souffrance en France - La banalisation de l'injustice sociale_, éditions du Seuil, 1998
 
 # En pratique
