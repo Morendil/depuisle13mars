@@ -34,9 +34,9 @@ Certaines collectivités territoriales sont en règle.
 
 ## Qui n'est pas en règle et pourquoi ?
 
-- le Ministère de l'Enseignement supérieur, de la Recherche et de l' Innovation a pris un arrêté le 17 mars 2020, soit avec 320 jours de retard; malheureusement, cet arrêté se borne à répercuter sur les établissements relevant de son périmètre les mêmes obligations.
+- le Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation a pris un arrêté du 17 mars 2020, soit avec 320 jours de retard; malheureusement, cet arrêté se borne à répercuter, sur les établissements relevant de son périmètre, les mêmes obligations.
 
-- les services du Premier ministre ne sont pas en règle, et mettent leur retard sur le compte de la crise sanitaire; or seule [l'ordonnance du 25 mars 2020] pourrait justifier une telle position, et le délai maximum accordé par ce texte ne pouvait dépasser le 24 aout 2020.
+- les services du Premier ministre ne sont pas en règle, et mettent leur retard sur le compte de la crise sanitaire; or seule [l'ordonnance du 25 mars 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041755644/) pourrait justifier une telle position, et le délai maximum accordé par ce texte ne pouvait dépasser le 24 aout 2020.
 
 ## Lectures
 
