@@ -26,7 +26,7 @@ Le décret n° 2020-256 du 13 mars 2020 est le décret d'application qui oblige 
 
 Malheureusement, très peu d'employeurs publics.
 
-- le Ministère de l'Europe et des Affaires étrangères a pris un arrêté du 20 novembre 2020, soit avec 203 jours de retard.
+- le Ministère de l'Europe et des Affaires étrangères a pris un [arrêté du 20 novembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580148), soit avec 203 jours de retard. Il semble cependant avoir été le premier. Bravo au Quai d'Orsay.
 
 - les Ministères du travail, de l'emploi et de l'insertion d'une part, des solidarités et de la santé d'autre part, ont pris les concernant un arrêté du 26 mai 2021, soit avec 390 jours de retard.
 
