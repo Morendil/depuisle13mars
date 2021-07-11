@@ -2,7 +2,7 @@
 
 Les collectivités territoriales (communes, départements, régions, etc.) sont soumises aux obligations découlant du décret du 13 mars. Son article 2 prévoit qu'il peut être mutualisé entre plusieurs employeurs, ou confié à un [centre de gestion](http://fncdg.com/centre-de-gestion/).
 
-Cette page a été constituée à partir d'une recherche Internet pour les termes `"décret du 13 mars" cdgnn` en faisant varier `nn` de 01 à 99. L'absence de résultat ne constitue pas une preuve de l'absence d'un dispositif mais en constitue un indice relativement fort, dans la mesure où les délibérations des collectivités territoriales sont de plus en plus [disponibles en ligne en application des dispositions de la loi "République numérique"](https://www.cnil.fr/fr/quelles-sont-les-obligations-de-publication-en-ligne).
+Cette page a été constituée à partir d'une recherche Internet pour les termes `"décret du 13 mars" cdgnn` en faisant varier `nn` de 01 à 96. L'absence de résultat ne constitue pas une preuve de l'absence d'un dispositif mais en constitue un indice relativement fort, dans la mesure où les délibérations des collectivités territoriales sont de plus en plus [disponibles en ligne en application des dispositions de la loi "République numérique"](https://www.cnil.fr/fr/quelles-sont-les-obligations-de-publication-en-ligne).
 
 ## CDG05
 
