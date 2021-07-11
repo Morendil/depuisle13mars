@@ -16,6 +16,10 @@ Un [dispositif mutualisé](http://www.cdg15.fr/cdg/index.php/dispositifdesignale
 
 Un [dispositif mutualisé](https://www.cdg16.fr/index-module-orki-page-view-id-159.html) est proposé par le centre de gestion de la Charente.
 
+## CDG21
+
+Un [dispositif mutualisé](http://www.cdg21.fr/index.php/pole-prevention/dispositif-de-signalement/l-agent) est proposé par le centre de gestion de la Côte-d'Or.
+
 ## CDG22
 
 Un [dispositif mutualisé](http://www.cdg25.org/prestation/violence-discrimination-harcelement-et-sexisme/) est proposé par le centre de gestion du Doubs.
@@ -23,6 +27,10 @@ Un [dispositif mutualisé](http://www.cdg25.org/prestation/violence-discriminati
 ## CDG24, CDG33 et CDG47
 
 Les centres de gestion de la Dordogne, de la Gironde et du Lot-et-Garonne « se sont associés pour mettre en place un collège commun mutualisé de référents déontologues ». Une présentation précise que ces centres « ont également décidé de confier à ce collège le dispositif de signalement issu du décret du 13 mars 2020 ». Cependant aucun élément ne semble disponible en ligne sur la mise en oeuvre du dispositif.
+
+## CDG51
+
+Un [document téléchargeable](https://51.cdgplus.fr/wp-content/uploads/sites/6/Documents/Signalement/Convention_CDG.docx) atteste de l'existence d'un dispositif proposé par le centre de gestion de la Marne.
 
 ## CDG67
 
