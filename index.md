@@ -22,7 +22,7 @@ Pour compléter les dispositions répressives, la loi a récemment prévu un dis
 
 Comme cela arrive bien souvent, la loi en elle-même n'a d'effet qu'à travers des décrets d'applications, et ceux-ci peuvent n'être pris que longtemps après les lois correspondantes.
 
-Le décret n° 2020-256 du 13 mars 2020 est le décret d'application qui oblige tous les employeurs publics à mettre en place un dispositif de prévention et de signalement des faits de harcèlement.
+Le [décret n° 2020-256 du 13 mars 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041722970/) est le décret d'application qui oblige tous les employeurs publics à mettre en place un dispositif de prévention et de signalement des faits de harcèlement.
 
 ## Qui est en règle ?
 
