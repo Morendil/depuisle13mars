@@ -12,6 +12,10 @@ D'après un [document d'actualités](https://www.cdg05.fr/storage/upload/newslet
 
 Un [dispositif mutualisé](http://www.cdg25.org/prestation/violence-discrimination-harcelement-et-sexisme/) est proposé par le centre de gestion du Doubs.
 
+## CDG67
+
+Un [document de présentation](https://www.cdg67.fr/coronavirus/pole-juridique/violences-sexuelles-et-sexistes-au-travail-disposition-de-signalement) fait état d'une prise de connaissance du décret par le centre de gestion du Bas-Rhin, mais aucun élément ne semble disponible en ligne sur la mise en oeuvre du dispositif.
+
 ## CDG69
 
 Un [dispositif mutualisé](https://extranet.cdg69.fr/signalement-actes-violence-discrimination) est proposé par le centre de gestion du Rhône et de la Métropole de Lyon.
