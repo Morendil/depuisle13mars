@@ -32,6 +32,10 @@ Les centres de gestion de la Dordogne, de la Gironde et du Lot-et-Garonne « se
 
 Un [document téléchargeable](https://51.cdgplus.fr/wp-content/uploads/sites/6/Documents/Signalement/Convention_CDG.docx) atteste de l'existence d'un dispositif proposé par le centre de gestion de la Marne.
 
+## CDG57
+
+Un [dispositif mutualisé](https://www.cdg57.fr/agent/signalement/) est proposé par le centre de gestion de la Moselle.
+
 ## CDG67
 
 Un [document de présentation](https://www.cdg67.fr/coronavirus/pole-juridique/violences-sexuelles-et-sexistes-au-travail-disposition-de-signalement) fait état d'une prise de connaissance du décret par le centre de gestion du Bas-Rhin, mais aucun élément ne semble disponible en ligne sur la mise en oeuvre du dispositif.
