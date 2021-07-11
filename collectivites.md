@@ -8,6 +8,14 @@ Cette page a été constituée à partir d'une recherche Internet pour les terme
 
 D'après un [document d'actualités](https://www.cdg05.fr/storage/upload/newsletter/409/L_Actu_du_mois_de_Mai_2021.pdf), le centre de gestion des Hautes-Alpes « a mis en place un projet de convention visant à définir les modalités d’exercice de cette mission entre la collectivité souhaitant déléguer le dispositif et le Centre ». L'existence réelle d'un quelconque dispositif ne se déduit pas pour autant de cette affirmation !
 
+## CDG15
+
+Un [dispositif mutualisé](http://www.cdg15.fr/cdg/index.php/dispositifdesignalement/presentationsignalement) est proposé par le centre de gestion du Cantal.
+
+## CDG16
+
+Un [dispositif mutualisé](https://www.cdg16.fr/index-module-orki-page-view-id-159.html) est proposé par le centre de gestion de la Charente.
+
 ## CDG22
 
 Un [dispositif mutualisé](http://www.cdg25.org/prestation/violence-discrimination-harcelement-et-sexisme/) est proposé par le centre de gestion du Doubs.
