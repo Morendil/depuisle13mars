@@ -55,4 +55,4 @@ Ce site vise uniquement à vous informer et ne peut se substituer à un conseil 
 
 # Comment nous aider
 
-- Vous êtes agent public, de la fonction publique d'État, territoriale ou hospitalière ? Interrogez votre employeur s'il ne figure pas dans l'une des deux listes ci-dessus ("en règle" ou "pas en règle") et n'hésitez pas à nous faire suivre sa réponse.
+- Vous êtes agent public, de la fonction publique d'État, territoriale ou hospitalière ? Interrogez votre employeur s'il ne figure pas dans l'une des deux listes ci-dessus ("en règle" ou "pas en règle") et n'hésitez pas à nous faire suivre sa réponse. (Ecrivez à <a href="mailto:depuisle13mars@bossavit.fr">depuisle13mars@bossavit.fr</a>.)
