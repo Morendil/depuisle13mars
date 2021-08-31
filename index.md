@@ -34,11 +34,17 @@ Malheureusement, très peu d'employeurs publics.
 
 Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
-## Qui n'est pas en règle et pourquoi ?
+## Qui n'est pas (encore) en règle et pourquoi ?
+
+- le Ministère de l'Économie indique qu'un projet d'arrêté est actuellement à l'examen et fera l'objet de discussions avec les organisations syndicales à partir de septembre 2021.
+
+- le Ministère des Armées a présenté au Comité Technique Ministériel du [25 mai 2021](https://www.unsa-defense.org/images/docs/employeurs/CTM/Nos_informations/Compte-rendu_CTM25-05-21.pdf), puis en Commission Consultative Paritaire du [19 juin 2021](https://www.unsa-defense.org/notre-actualite/hsct/ccp/declaration-liminaire-de-la-ccp-du-29-juin-2021), un "projet" d'arrêté, relativement mal accueilli par les organisations syndicales (cf. les comptes-rendus en lien émanant de l'UNSA Défense mais également le communiqué de la [CGT](https://www.fnte.cgt.fr/sites/default/files/2021-05/CR%20et%20DL%20CTM%2025%20mai%202021%20%281%29.pdf)). Le dispositif doit s'appuyer sur la [cellule Thémis](https://www.defense.gouv.fr/portail/vous-et-la-defense/egalite-femmes-hommes/lutte-contre-les-harcelement-et-violences-sexuels-et-sexistes-ainsi-que-les-discriminations-de-toute-sorte/cellule-themis), une organisation existante mais dont le périmètre semble restreint aux discriminations et harcèlements à caractère sexiste ou sexuel.
+
+- au Ministère de l'Agriculture, le sujet a été évoqué lors d'un Comité Technique Ministériel du [10 décembre 2020](https://www.sniteat-unsa.fr/index.php/espace-public/instances-de-concertation/comite-technique-ministeriel-ctm/733-ctm-du-10-decembre-2020), dont il ressort que le Ministère fait appel à la cellule AlloDiscrim, et que « ce dispositif sera adapté en 2021 pour être mis en conformité avec le décret n° 2020-256 du 13 mars 2020 sur le sujet. »
 
 - le Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation a pris un [arrêté du 17 mars 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043343980), soit avec 320 jours de retard; malheureusement, cet arrêté se borne à répercuter, sur les établissements relevant de son périmètre, les mêmes obligations. Cet arrêté semble donc d'une part sans effet réel sur les personnels relevant directement du ministère et non d'un établissement en particulier, et d'autre part en "renvoyant la balle" de la sorte aux établissements, court le risque d'occasionner des délais supplémentaires, et d'instaurer des traitements disparates entre établissements.
 
-- les services du Premier ministre ne sont pas en règle, et mettent leur retard sur le compte de la crise sanitaire; or seule [l'ordonnance du 25 mars 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041755644/) pourrait justifier une telle position, et le délai maximum accordé par ce texte ne pouvait dépasser le 24 août 2020.
+- les services du Premier ministre ont pris un arrêté du [19 juillet 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043813910) portant création de la mission Vigisexisme, soit avec 444 jours de retard. (Interrogée à ce sujet, la DSAF a imputé ce retard à la crise sanitaire; or seule [l'ordonnance du 25 mars 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041755644/) pouvait justifier une telle position, et le délai maximum accordé par ce texte ne pouvait dépasser le 24 août 2020.) Cependant cette mise en conformité n'est que partielle. La responsable de la mission déclare qu'elle n'est pas habilitée à donner suite aux signalements d'agissements n'ayant aucun caractère sexiste ni sexuel, alors même que le périmètre du décret du 13 mars 2020 couvre toutes les discriminations et tous les harcèlements, y compris le harcèlement moral.
 
 ## Lectures
 
@@ -53,4 +59,4 @@ Ce site vise uniquement à vous informer et ne peut se substituer à un conseil 
 
 # Comment nous aider
 
-- Vous êtes agent public, de la fonction publique d'État, territoriale ou hospitalière ? Interrogez votre employeur s'il ne figure pas dans l'une des deux listes ci-dessus ("en règle" ou "pas en règle") et n'hésitez pas à nous faire suivre sa réponse.
+- Vous êtes agent public, de la fonction publique d'État, territoriale ou hospitalière ? Interrogez votre employeur s'il ne figure pas dans l'une des deux listes ci-dessus ("en règle" ou "pas en règle") et n'hésitez pas à nous faire suivre sa réponse. (Ecrivez à <a href="mailto:depuisle13mars@bossavit.fr">depuisle13mars@bossavit.fr</a>.)
