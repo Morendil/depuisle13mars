@@ -36,6 +36,8 @@ Malheureusement, très peu d'employeurs publics.
 
 Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
+- l'APHP a publié le 14 septembre une [procédure de signalement](http://cme.aphp.fr/sites/default/files/CMEDoc/cme14spetembre2021_violenceautravail_procedure.pdf), soit avec 501 jours de retard, et alors qu'une mise en examen vient d'être annoncée dans l'affaire du suicide d'une victime présumée de harcèlement moral, six ans plus tôt… on apprécie le sens du timing.
+
 ## Qui n'est pas (encore) en règle et pourquoi ?
 
 - le Ministère de l'Économie indique qu'un projet d'arrêté est actuellement à l'examen et fera l'objet de discussions avec les organisations syndicales à partir de septembre 2021.
