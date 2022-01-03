@@ -24,11 +24,13 @@ Comme cela arrive bien souvent, la loi en elle-même n'a d'effet qu'à travers d
 
 Le [décret n° 2020-256 du 13 mars 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041722970/) est le décret d'application qui oblige tous les employeurs publics à mettre en place un dispositif de prévention et de signalement des faits de harcèlement. Cette obligation s'applique depuis le 1er mai 2020. (Et donc, ce site pouvait indifféremment s'appeler « depuis le 13 mars » ou « depuis le 1er mai ». La symbolique du 1er mai étant déjà assez chargée, j'ai choisi la première option… mais la date effective pour le calcul des retards indiqués ci-dessous est bien la seconde.)
 
-## Qui est en règle ?
+## Qui est (plus ou moins) en règle ?
 
-Malheureusement, très peu d'employeurs publics.
+Malheureusement, pas plus d'un ministère sur deux, et encore, à géométrie très variable.
 
 - le Ministère de l'Europe et des Affaires étrangères a pris un [arrêté du 20 novembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580148), soit avec 203 jours de retard. Il semble cependant avoir été le premier. Bravo au Quai d'Orsay.
+
+- le Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation a pris un [arrêté du 17 mars 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043343980), soit avec 320 jours de retard; malheureusement, cet arrêté se borne à répercuter, sur les établissements relevant de son périmètre, les mêmes obligations. Cet arrêté semble donc d'une part sans effet réel sur les personnels relevant directement du ministère et non d'un établissement en particulier, et d'autre part en "renvoyant la balle" de la sorte aux établissements, court le risque d'occasionner des délais supplémentaires, et d'instaurer des traitements disparates entre établissements. Mais, lot de consolation qui sera certaimenent apprécié par les victimes ne sachant pas vers qui se tourner, un ["appel à projets"](https://www.enseignementsup-recherche.gouv.fr/cid159370/soutien-aux-etablissements-d-enseignement-superieur-et-de-recherche-dans-la-lutte-contre-les-violences-sexistes-et-sexuelles.html) est lancé en septembre 2021 pour aider les établissements à améliorer, notamment, leur "communication"…
 
 - les Ministères du travail, de l'emploi et de l'insertion d'une part, des solidarités et de la santé d'autre part, ont pris les concernant un [arrêté du 26 mai 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043596646), soit avec 390 jours de retard.
 
