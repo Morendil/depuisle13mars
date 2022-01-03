@@ -22,7 +22,7 @@ Pour compléter les dispositions répressives, la loi a récemment prévu un dis
 
 Comme cela arrive bien souvent, la loi en elle-même n'a d'effet qu'à travers des décrets d'applications, et ceux-ci peuvent n'être pris que longtemps après les lois correspondantes.
 
-Le [décret n° 2020-256 du 13 mars 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041722970/) est le décret d'application qui oblige tous les employeurs publics à mettre en place un dispositif de prévention et de signalement des faits de harcèlement.
+Le [décret n° 2020-256 du 13 mars 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041722970/) est le décret d'application qui oblige tous les employeurs publics à mettre en place un dispositif de prévention et de signalement des faits de harcèlement. Cette obligation s'applique depuis le 1er mai 2020. (Et donc, ce site pouvait indifféremment s'appeler « depuis le 13 mars » ou « depuis le 1er mai ». La symbolique du 1er mai étant déjà assez chargée, j'ai choisi la première option… mais la date effective pour le calcul des retards indiqués ci-dessous est bien la seconde.)
 
 ## Qui est en règle ?
 
