@@ -46,6 +46,8 @@ Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
 ## Qui n'est pas (encore) en règle et pourquoi ?
 
+Encore quelques mois et le décret fêtera ses deux ans…
+
 - le Ministère de l'Économie indique qu'un projet d'arrêté est actuellement à l'examen et fera l'objet de discussions avec les organisations syndicales à partir de septembre 2021.
 
 - au Ministère de l'Agriculture, le sujet a été évoqué lors d'un Comité Technique Ministériel du [10 décembre 2020](https://www.sniteat-unsa.fr/index.php/espace-public/instances-de-concertation/comite-technique-ministeriel-ctm/733-ctm-du-10-decembre-2020), dont il ressort que le Ministère fait appel à la cellule AlloDiscrim, et que « ce dispositif sera adapté en 2021 pour être mis en conformité avec le décret n° 2020-256 du 13 mars 2020 sur le sujet. »
