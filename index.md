@@ -52,7 +52,11 @@ Encore quelques mois et le décret fêtera ses deux ans…
 
 - au Ministère de l'Agriculture, le sujet a été évoqué lors d'un Comité Technique Ministériel du [10 décembre 2020](https://www.sniteat-unsa.fr/index.php/espace-public/instances-de-concertation/comite-technique-ministeriel-ctm/733-ctm-du-10-decembre-2020), dont il ressort que le Ministère fait appel à la cellule AlloDiscrim, et que « ce dispositif sera adapté en 2021 pour être mis en conformité avec le décret n° 2020-256 du 13 mars 2020 sur le sujet. »
 
-- le Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation a pris un [arrêté du 17 mars 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043343980), soit avec 320 jours de retard; malheureusement, cet arrêté se borne à répercuter, sur les établissements relevant de son périmètre, les mêmes obligations. Cet arrêté semble donc d'une part sans effet réel sur les personnels relevant directement du ministère et non d'un établissement en particulier, et d'autre part en "renvoyant la balle" de la sorte aux établissements, court le risque d'occasionner des délais supplémentaires, et d'instaurer des traitements disparates entre établissements. Mais, lot de consolation qui sera certaimenent apprécié par les victimes ne sachant pas vers qui se tourner, un ["appel à projets"](https://www.enseignementsup-recherche.gouv.fr/cid159370/soutien-aux-etablissements-d-enseignement-superieur-et-de-recherche-dans-la-lutte-contre-les-violences-sexistes-et-sexuelles.html) est lancé en septembre 2021 pour aider les établissements à améliorer, notamment, leur "communication"…
+- aux Ministères de l'Agriculture, de la Culture, de l'Ecologie, de l'Intérieur ou de la Justice… rien ne semble avoir même commencé à bouger.
+
+Ce sont, selon mes calculs, près de 740 000 agents publics qui ne sont actuellement pas protégés… alors même que l'Assemblée Nationale indiquait dans son [rapport d'impact](https://www.assemblee-nationale.fr/dyn/docs/ETDIANR5L15B1802.raw) sur la loi de 2019:
+
+> L’obligation de mise en place d’un dispositif de signalement par les administrations, collectivités et établissements publics permet d’assurer une égalité de traitement de l’ensemble des agents publics et leur permet de faire valoir leurs droits devant le juge administratif pour faute dès lors qu’aucun dispositif n’aurait été mis en place par l’employeur.
 
 ## Lectures
 
