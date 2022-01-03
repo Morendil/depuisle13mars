@@ -54,7 +54,7 @@ Encore quelques mois et le décret fêtera ses deux ans…
 
 - aux Ministères de la Culture, de l'Ecologie, de l'Intérieur ou de la Justice… rien ne semble avoir même commencé à bouger.
 
-Ce sont, selon mes calculs, près de 740 000 agents publics qui ne sont actuellement pas protégés… alors même que l'Assemblée Nationale indiquait dans son [rapport d'impact](https://www.assemblee-nationale.fr/dyn/docs/ETDIANR5L15B1802.raw) sur la loi de 2019:
+Ce sont, selon mes calculs, près de 740 000 agents publics qui ne sont actuellement pas concernés par un dispositif conforme à la loi… alors même que l'Assemblée Nationale indiquait dans son [rapport d'impact](https://www.assemblee-nationale.fr/dyn/docs/ETDIANR5L15B1802.raw) sur la loi de 2019:
 
 > L’obligation de mise en place d’un dispositif de signalement par les administrations, collectivités et établissements publics permet d’assurer une égalité de traitement de l’ensemble des agents publics et leur permet de faire valoir leurs droits devant le juge administratif pour faute dès lors qu’aucun dispositif n’aurait été mis en place par l’employeur.
 
