@@ -46,7 +46,7 @@ Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
 ## Qui n'est pas (encore) en règle et pourquoi ?
 
-Encore quelques mois et le décret fêtera ses deux ans…
+Depuis le 1er mai 2022, quelques mauvais élèves affichent désormais plus de deux ans de retard au compteur…
 
 - le Ministère de l'Économie indique qu'un projet d'arrêté est actuellement à l'examen et fera l'objet de discussions avec les organisations syndicales à partir de septembre 2021.
 
