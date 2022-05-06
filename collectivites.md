@@ -6,6 +6,10 @@ Cette page a été constituée initialement à partir d'une recherche Internet p
 
 La mise en place d'un dispositif au niveau du centre de gestion ne signifie pas nécessairement que les agents sont protégés, puisqu'il faut encore que les collectivités dépendant du centre y adhèrent…
 
+## CDG02
+
+Un [dispositif mutualisé](http://www.cdg02.fr/doc/Note_d_information_dispos.pdf) est proposé par le centre de gestion de l'Aisne.
+
 ## CDG05
 
 D'après un [document d'actualités](https://www.cdg05.fr/storage/upload/newsletter/409/L_Actu_du_mois_de_Mai_2021.pdf), le centre de gestion des Hautes-Alpes « a mis en place un projet de convention visant à définir les modalités d’exercice de cette mission entre la collectivité souhaitant déléguer le dispositif et le Centre ». L'existence réelle d'un quelconque dispositif ne se déduit pas pour autant de cette affirmation !
