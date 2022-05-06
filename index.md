@@ -24,9 +24,23 @@ Comme cela arrive bien souvent, la loi en elle-même n'a d'effet qu'à travers d
 
 Le [décret n° 2020-256 du 13 mars 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041722970/) est le décret d'application qui oblige tous les employeurs publics à mettre en place un dispositif de prévention et de signalement des faits de harcèlement. Cette obligation s'applique depuis le 1er mai 2020. (Et donc, ce site pouvait indifféremment s'appeler « depuis le 13 mars » ou « depuis le 1er mai ». La symbolique du 1er mai étant déjà assez chargée, j'ai choisi la première option… mais la date effective pour le calcul des retards indiqués ci-dessous est bien la seconde.)
 
+## Qui n'est pas (encore) en règle et pourquoi ?
+
+Depuis le 1er mai 2022, quelques mauvais élèves affichent désormais plus de deux ans de retard au compteur…
+
+- le Ministère de l'Économie, en réponse à mes questions, a indiqué qu'un projet d'arrêté était en cours d'examen et ferait l'objet de discussions avec les organisations syndicales… c'était en septembre 2021.
+
+- aux Ministères de la Culture, de l'Ecologie, de l'Education Nationale, de l'Intérieur ou de la Justice… rien ne semble avoir même commencé à bouger.
+
+Ce sont, selon mes calculs, près de 740 000 agents publics qui ne sont actuellement pas concernés par un dispositif conforme à la loi… alors même que l'Assemblée Nationale indiquait dans son [rapport d'impact](https://www.assemblee-nationale.fr/dyn/docs/ETDIANR5L15B1802.raw) sur la loi de 2019:
+
+> L’obligation de mise en place d’un dispositif de signalement par les administrations, collectivités et établissements publics permet d’assurer une égalité de traitement de l’ensemble des agents publics et leur permet de faire valoir leurs droits devant le juge administratif pour faute dès lors qu’aucun dispositif n’aurait été mis en place par l’employeur.
+
+Ces carences exposent les employeurs publics concernés à des pénalités financières à hauteur de 1% de leur masse salariale globale, selon les dispositions de [l'article L132-3 du Code de la Fonction Publique](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044412406).
+
 ## Qui est (plus ou moins) en règle ?
 
-Malheureusement, pas plus d'un ministère sur deux, et encore, à géométrie très variable.
+Les dispositifs des différents Ministères se caractérisent par une constante - celle du retard considérable pris dans leur mise en oeuvre, par rapport au délai légal - et des variations importantes dans le niveau de protection accordé aux personnes concernées.
 
 - le Ministère de l'Europe et des Affaires étrangères a pris un [arrêté du 20 novembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580148), soit avec 203 jours de retard. Il semble cependant avoir été le premier. Bravo au Quai d'Orsay.
 
@@ -40,23 +54,11 @@ Malheureusement, pas plus d'un ministère sur deux, et encore, à géométrie tr
 
 - Plus tardivement encore, un [arrêté du 27 décembre 2021](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044806302) est venu compléter la mise en conformité de Matignon, soit avec 605 jours de retard. Ce texte ouvre bien le dispositif aux agents en poste et ayant quitté les services depuis moins de six mois, mais fait purement et simplement l'impasse sur les personnes ayant candidaté à un emploi. Si vous êtes victime de discrimination à l'embauche par l'un des services relevant de la DSAF, pour tout autre motif que votre sexe ou votre identité de genre… tant pis pour vous. (Ou bien, tant pis pour l'État, si vous attaquez en voyant là une évidente inégalité de traitement, et que la justice vous donne raison…) Vous ne pourrez d'ailleurs même pas tenter votre chance puisque le texte, qui mentionne une « messagerie électronique dédiée » pour y adresser les signalements, omet d'en préciser l'adresse. (En réalité, peu importe. Au titre de l'article L114-2 du CRPA, « lorsqu'une demande est adressée à une administration incompétente, cette dernière la transmet à l'administration compétente et en avise l'intéressé. » Vous pouvez donc adresser vos demandes à affaires.juridiques@pm.gouv.fr, l'administration sera dans l'obligation de transmettre.)
 
+- Le Ministère de l'Agriculture a pris un [arrêté du 28 avril 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045753297), soit avec 727 jours de retard.
+
 Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
 - l'APHP a publié le 14 septembre une [procédure de signalement](http://cme.aphp.fr/sites/default/files/CMEDoc/cme14spetembre2021_violenceautravail_procedure.pdf), soit avec 501 jours de retard, et alors qu'une mise en examen vient d'être annoncée dans l'affaire du suicide d'une victime présumée de harcèlement moral, six ans plus tôt… on apprécie le sens du timing.
-
-## Qui n'est pas (encore) en règle et pourquoi ?
-
-Depuis le 1er mai 2022, quelques mauvais élèves affichent désormais plus de deux ans de retard au compteur…
-
-- le Ministère de l'Économie, en réponse à mes questions, a indiqué qu'un projet d'arrêté était en cours d'examen et ferait l'objet de discussions avec les organisations syndicales… c'était en septembre 2021.
-
-- au Ministère de l'Agriculture, le sujet a été évoqué lors d'un Comité Technique Ministériel du [10 décembre 2020](https://www.sniteat-unsa.fr/index.php/espace-public/instances-de-concertation/comite-technique-ministeriel-ctm/733-ctm-du-10-decembre-2020), dont il ressort que le Ministère fait appel à la cellule AlloDiscrim, et que « ce dispositif sera adapté en 2021 pour être mis en conformité avec le décret n° 2020-256 du 13 mars 2020 sur le sujet. »
-
-- aux Ministères de la Culture, de l'Ecologie, de l'Education Nationale, de l'Intérieur ou de la Justice… rien ne semble avoir même commencé à bouger.
-
-Ce sont, selon mes calculs, près de 740 000 agents publics qui ne sont actuellement pas concernés par un dispositif conforme à la loi… alors même que l'Assemblée Nationale indiquait dans son [rapport d'impact](https://www.assemblee-nationale.fr/dyn/docs/ETDIANR5L15B1802.raw) sur la loi de 2019:
-
-> L’obligation de mise en place d’un dispositif de signalement par les administrations, collectivités et établissements publics permet d’assurer une égalité de traitement de l’ensemble des agents publics et leur permet de faire valoir leurs droits devant le juge administratif pour faute dès lors qu’aucun dispositif n’aurait été mis en place par l’employeur.
 
 ## Lectures
 
