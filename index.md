@@ -30,7 +30,7 @@ Depuis le 1er mai 2022, quelques mauvais élèves affichent désormais plus de d
 
 - le Ministère de l'Économie, en réponse à mes questions, a indiqué qu'un projet d'arrêté était en cours d'examen et ferait l'objet de discussions avec les organisations syndicales… c'était en septembre 2021.
 
-- aux Ministères de la Culture, de l'Ecologie, de l'Education Nationale, de l'Intérieur ou de la Justice… rien ne semble avoir même commencé à bouger.
+- aux Ministères de l'Ecologie, de l'Education Nationale, de l'Intérieur ou de la Justice… rien ne semble avoir même commencé à bouger.
 
 Ce sont, selon mes calculs, plus de 700 000 agents publics qui ne sont actuellement pas concernés par un dispositif conforme à la loi… alors même que l'Assemblée Nationale indiquait dans son [rapport d'impact](https://www.assemblee-nationale.fr/dyn/docs/ETDIANR5L15B1802.raw) sur la loi de 2019:
 
@@ -56,9 +56,11 @@ Les dispositifs des différents Ministères se caractérisent par une constante 
 
 - Le Ministère de l'Agriculture a pris un [arrêté du 28 avril 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045753297), soit avec 727 jours de retard.
 
+- le Ministère de la Culture a pris un [arrêté du 13 juin 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045979730), soit avec 773 jours de retard. Il concerne les personnes « en fonction ou antérieurement en fonction au sein des services du ministère de la culture, centraux ou déconcentrés, des services à compétence nationale ou dans ses établissements publics ».
+
 Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
-- l'APHP a publié le 14 septembre une [procédure de signalement](http://cme.aphp.fr/sites/default/files/CMEDoc/cme14spetembre2021_violenceautravail_procedure.pdf), soit avec 501 jours de retard, et alors qu'une mise en examen vient d'être annoncée dans l'affaire du suicide d'une victime présumée de harcèlement moral, six ans plus tôt… on apprécie le sens du timing.
+- l'APHP a publié le 14 septembre 2021 une [procédure de signalement](http://cme.aphp.fr/sites/default/files/CMEDoc/cme14spetembre2021_violenceautravail_procedure.pdf), soit avec 501 jours de retard, et alors qu'une mise en examen vient d'être annoncée dans l'affaire du suicide d'une victime présumée de harcèlement moral, six ans plus tôt… on apprécie le sens du timing.
 
 ## Lectures
 
