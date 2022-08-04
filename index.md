@@ -40,7 +40,7 @@ Ces carences exposent les employeurs publics concernés à des pénalités finan
 
 ## Qui est (plus ou moins) en règle ?
 
-Les dispositifs des différents Ministères se caractérisent par une constante - celle du retard considérable pris dans leur mise en oeuvre, par rapport au délai légal - et des variations importantes dans le niveau de protection accordé aux personnes concernées.
+Les dispositifs des différents Ministères et administrations centrales se caractérisent par une constante - celle du retard considérable pris dans leur mise en oeuvre, par rapport au délai légal - et des variations importantes dans le niveau de protection accordé aux personnes concernées.
 
 - le Ministère de l'Europe et des Affaires étrangères a pris un [arrêté du 20 novembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042580148), soit avec 203 jours de retard. Il semble cependant avoir été le premier. Bravo au Quai d'Orsay.
 
@@ -57,6 +57,8 @@ Les dispositifs des différents Ministères se caractérisent par une constante 
 - Le Ministère de l'Agriculture a pris un [arrêté du 28 avril 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045753297), soit avec 727 jours de retard.
 
 - le Ministère de la Culture a pris un [arrêté du 13 juin 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045979730), soit avec 773 jours de retard. Il concerne les personnes « en fonction ou antérieurement en fonction au sein des services du ministère de la culture, centraux ou déconcentrés, des services à compétence nationale ou dans ses établissements publics ».
+
+- Le Conseil d'Etat a pris avec 818 jours de retard un [arrêté du 28 juillet 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046131492), concernant les agents « affectés au Conseil d'Etat, à la Cour nationale du droit d'asile, dans une cour administrative d'appel ou un tribunal administratif ». On peut légitimement s'interroger sur le manque d'exemplarité de la plus haute juridiction administrative du pays… Mais également relever l'intitulé même du dispositif: « Cellule d'écoute discriminations et violences sexistes et sexuelles », qui gomme purement et simplement la notion de harcèlement moral.
 
 Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
