@@ -28,8 +28,6 @@ Le [décret n° 2020-256 du 13 mars 2020](https://www.legifrance.gouv.fr/loda/id
 
 Depuis le 1er mai 2022, quelques mauvais élèves affichent désormais plus de deux ans de retard au compteur…
 
-- le Ministère de l'Économie, en réponse à mes questions, a indiqué qu'un projet d'arrêté était en cours d'examen et ferait l'objet de discussions avec les organisations syndicales… c'était en septembre 2021.
-
 - aux Ministères de l'Ecologie, de l'Education Nationale, de l'Intérieur ou de la Justice… rien ne semble avoir même commencé à bouger.
 
 Ce sont, selon mes calculs, plus de 700 000 agents publics qui ne sont actuellement pas concernés par un dispositif conforme à la loi… alors même que l'Assemblée Nationale indiquait dans son [rapport d'impact](https://www.assemblee-nationale.fr/dyn/docs/ETDIANR5L15B1802.raw) sur la loi de 2019:
@@ -59,6 +57,8 @@ Les dispositifs des différents Ministères et administrations centrales se cara
 - le Ministère de la Culture a pris un [arrêté du 13 juin 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045979730), soit avec 773 jours de retard. Il concerne les personnes « en fonction ou antérieurement en fonction au sein des services du ministère de la culture, centraux ou déconcentrés, des services à compétence nationale ou dans ses établissements publics ».
 
 - Le Conseil d'Etat a pris avec 818 jours de retard un [arrêté du 28 juillet 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046131492), concernant les agents « affectés au Conseil d'Etat, à la Cour nationale du droit d'asile, dans une cour administrative d'appel ou un tribunal administratif ». On peut légitimement s'interroger sur le manque d'exemplarité de la plus haute juridiction administrative du pays… Mais également relever l'intitulé même du dispositif: « Cellule d'écoute discriminations et violences sexistes et sexuelles », qui gomme purement et simplement la notion de harcèlement moral.
+
+- Le Ministère de l'Economie et des Finances a pris un [arrêté du 12 octobre 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047316975) soit avec 894 jours de retard. (Exercice: calculez la majoration qui serait dûe à l'administration fiscale si vous décidiez de payer vos impôts avec deux ans et demi de retard.)
 
 Certaines [collectivités territoriales](collectivites.md) sont en règle.
 
